@@ -1,0 +1,26 @@
+html{
+    background-color:rgb(0,0,0);
+  }
+  body{
+    border:1px dotted brown;
+    margin:50px;
+    text-align:center;
+    color:red;
+  }
+  h1{
+    text-align:center;
+    
+  }
+  h3{
+    text-decoration:underline;
+    color:brown;
+  }
+  li{
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    color:white;
+  }
+  li#reviews{
+    color:brown;
+  }
